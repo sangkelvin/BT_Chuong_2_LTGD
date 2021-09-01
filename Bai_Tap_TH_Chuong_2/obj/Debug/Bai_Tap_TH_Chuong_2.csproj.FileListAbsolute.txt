@@ -1,0 +1,11 @@
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\obj\Debug\Bai_Tap_TH_Chuong_2.Form1.resources
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\obj\Debug\Bai_Tap_TH_Chuong_2.Properties.Resources.resources
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\obj\Debug\Bai_Tap_TH_Chuong_2.csproj.GenerateResource.cache
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\obj\Debug\Bai_Tap_TH_Chuong_2.csproj.CoreCompileInputs.cache
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\bin\Debug\Bai_Tap_TH_Chuong_2.exe.config
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\bin\Debug\Bai_Tap_TH_Chuong_2.exe
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\bin\Debug\Bai_Tap_TH_Chuong_2.pdb
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\obj\Debug\Bai_Tap_TH_Chuong_2.exe
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\obj\Debug\Bai_Tap_TH_Chuong_2.pdb
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\obj\Debug\Bai_Tap_TH_Chuong_2.Form2.resources
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2\obj\Debug\Bai_Tap_TH_Chuong_2.csproj.AssemblyReference.cache

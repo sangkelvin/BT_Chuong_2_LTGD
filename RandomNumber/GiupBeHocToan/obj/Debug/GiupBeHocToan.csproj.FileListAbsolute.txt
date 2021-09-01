@@ -1,0 +1,10 @@
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\RandomNumber\GiupBeHocToan\bin\Debug\GiupBeHocToan.exe.config
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\RandomNumber\GiupBeHocToan\bin\Debug\GiupBeHocToan.exe
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\RandomNumber\GiupBeHocToan\bin\Debug\GiupBeHocToan.pdb
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\RandomNumber\GiupBeHocToan\obj\Debug\GiupBeHocToan.csproj.AssemblyReference.cache
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\RandomNumber\GiupBeHocToan\obj\Debug\GiupBeHocToan.Form1.resources
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\RandomNumber\GiupBeHocToan\obj\Debug\GiupBeHocToan.Properties.Resources.resources
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\RandomNumber\GiupBeHocToan\obj\Debug\GiupBeHocToan.csproj.GenerateResource.cache
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\RandomNumber\GiupBeHocToan\obj\Debug\GiupBeHocToan.csproj.CoreCompileInputs.cache
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\RandomNumber\GiupBeHocToan\obj\Debug\GiupBeHocToan.exe
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\RandomNumber\GiupBeHocToan\obj\Debug\GiupBeHocToan.pdb

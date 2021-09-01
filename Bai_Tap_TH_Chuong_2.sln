@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_Tap_TH_Chuong_2", "Bai_Tap_TH_Chuong_2\Bai_Tap_TH_Chuong_2.csproj", "{0B65C254-EB4E-479A-9B9E-2A27A848965F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_BTTHC2_P2", "Setup_BTTHC2_P2\Setup_BTTHC2_P2.vdproj", "{3AF11A4B-A446-48CA-B07F-419E6447CC8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B65C254-EB4E-479A-9B9E-2A27A848965F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B65C254-EB4E-479A-9B9E-2A27A848965F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B65C254-EB4E-479A-9B9E-2A27A848965F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B65C254-EB4E-479A-9B9E-2A27A848965F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF11A4B-A446-48CA-B07F-419E6447CC8E}.Debug|Any CPU.ActiveCfg = Debug
+		{3AF11A4B-A446-48CA-B07F-419E6447CC8E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06477DF4-754E-4B4D-8C1B-72CEAEA89FC6}
+	EndGlobalSection
+EndGlobal

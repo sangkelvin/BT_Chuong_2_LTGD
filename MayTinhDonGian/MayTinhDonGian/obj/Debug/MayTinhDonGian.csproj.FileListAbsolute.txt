@@ -1,0 +1,10 @@
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\MayTinhDonGian\MayTinhDonGian\bin\Debug\MayTinhDonGian.exe.config
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\MayTinhDonGian\MayTinhDonGian\bin\Debug\MayTinhDonGian.exe
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\MayTinhDonGian\MayTinhDonGian\bin\Debug\MayTinhDonGian.pdb
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\MayTinhDonGian\MayTinhDonGian\obj\Debug\MayTinhDonGian.csproj.AssemblyReference.cache
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\MayTinhDonGian\MayTinhDonGian\obj\Debug\MayTinhDonGian.Form1.resources
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\MayTinhDonGian\MayTinhDonGian\obj\Debug\MayTinhDonGian.Properties.Resources.resources
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\MayTinhDonGian\MayTinhDonGian\obj\Debug\MayTinhDonGian.csproj.GenerateResource.cache
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\MayTinhDonGian\MayTinhDonGian\obj\Debug\MayTinhDonGian.csproj.CoreCompileInputs.cache
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\MayTinhDonGian\MayTinhDonGian\obj\Debug\MayTinhDonGian.exe
+C:\Users\mrsan\Google Drive\LTGD\C#\Source\Bai_Tap_TH_Chuong_2\MayTinhDonGian\MayTinhDonGian\obj\Debug\MayTinhDonGian.pdb
